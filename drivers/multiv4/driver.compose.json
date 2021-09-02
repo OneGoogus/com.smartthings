@@ -15,9 +15,13 @@
       "batteries": [ "CR2450" ]
     },
     "zigbee": {
-      "manufacturerName": "SmartThings",
+      "manufacturerName": [
+        "SmartThings",
+        "Samjin"
+      ],
       "productId": [
-        "multiv4"
+        "multiv4",
+        "multi"
       ],        
       "deviceId": 1026,
       "profileId": 260,
